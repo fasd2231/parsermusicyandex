@@ -16,12 +16,12 @@
 
 ## 📥 Установка и запуск
 ```bash
-git clone https://github.com/your-username/yandex-music-parser.git
-cd yandex-music-parser
+git clone https://github.com/fasd2231/parsermusicyandex.git
+cd parsermusicyandex
 pip install -r requirements.txt
 python main.py
 введите плейлист (обязательно публичный)
 ```
-хз делал с помощью чатагпт, вроде работает#   p a r s e r m u s i c y a n d e x 
+хз делал с помощью чатагпт, вроде работает
  
  
